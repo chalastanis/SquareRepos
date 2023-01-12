@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">20sp</dimen>
+    <dimen name="folder_width">120dp</dimen>
+    <dimen name="folder_height">120dp</dimen>
+</resources>
